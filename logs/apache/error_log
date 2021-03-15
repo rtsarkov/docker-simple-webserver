@@ -1,0 +1,35 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Mar 13 19:29:04.550747 2021] [mpm_event:notice] [pid 1:tid 139694297640264] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Sat Mar 13 19:29:04.550793 2021] [core:notice] [pid 1:tid 139694297640264] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 13 19:35:33.487267 2021] [mpm_event:notice] [pid 1:tid 139694297640264] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Mar 13 19:35:41.060261 2021] [mpm_event:notice] [pid 1:tid 140430926925128] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Sat Mar 13 19:35:41.090501 2021] [core:notice] [pid 1:tid 140430926925128] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 13 19:36:38.107428 2021] [proxy:error] [pid 9:tid 140430923811616] [client 172.18.0.1:46144] AH00898: DNS lookup failure for: php returned by /index.php
+[Sat Mar 13 19:37:36.151926 2021] [mpm_event:notice] [pid 1:tid 140430926925128] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Mar 13 19:37:50.777721 2021] [mpm_event:notice] [pid 1:tid 139655818267976] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Sat Mar 13 19:37:50.777767 2021] [core:notice] [pid 1:tid 139655818267976] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 13 19:38:10.418698 2021] [mpm_event:notice] [pid 1:tid 139655818267976] AH00492: caught SIGWINCH, shutting down gracefully
+[Sat Mar 13 19:38:25.028993 2021] [mpm_event:notice] [pid 1:tid 139924759805256] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Sat Mar 13 19:38:25.029065 2021] [core:notice] [pid 1:tid 139924759805256] AH00094: Command line: 'httpd -D FOREGROUND'
+[Sat Mar 13 19:43:21.778702 2021] [mpm_event:notice] [pid 1:tid 139924759805256] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 18:23:07.201411 2021] [mpm_event:notice] [pid 1:tid 139636827311432] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 18:23:07.211123 2021] [core:notice] [pid 1:tid 139636827311432] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 18:30:45.689244 2021] [mpm_event:notice] [pid 1:tid 139636827311432] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 18:38:34.744028 2021] [mpm_event:notice] [pid 1:tid 139719523908936] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 18:38:34.765023 2021] [core:notice] [pid 1:tid 139719523908936] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 18:43:08.420233 2021] [mpm_event:notice] [pid 1:tid 139719523908936] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 18:43:19.676216 2021] [mpm_event:notice] [pid 1:tid 140284244626760] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 18:43:19.676279 2021] [core:notice] [pid 1:tid 140284244626760] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 18:45:19.017105 2021] [mpm_event:notice] [pid 1:tid 140284244626760] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 18:45:27.519216 2021] [mpm_event:notice] [pid 1:tid 140135641009480] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 18:45:27.519276 2021] [core:notice] [pid 1:tid 140135641009480] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 18:47:07.143593 2021] [mpm_event:notice] [pid 1:tid 140135641009480] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 18:47:17.768090 2021] [mpm_event:notice] [pid 1:tid 140580002471240] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 18:47:17.768131 2021] [core:notice] [pid 1:tid 140580002471240] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 18:57:35.632128 2021] [mpm_event:notice] [pid 1:tid 140580002471240] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 19:03:46.626332 2021] [mpm_event:notice] [pid 1:tid 139959453801800] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 19:03:46.662322 2021] [core:notice] [pid 1:tid 139959453801800] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 19:07:04.311712 2021] [mpm_event:notice] [pid 1:tid 139959453801800] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Mar 15 19:08:29.364313 2021] [mpm_event:notice] [pid 1:tid 139776714919240] AH00489: Apache/2.4.46 (Unix) configured -- resuming normal operations
+[Mon Mar 15 19:08:29.364384 2021] [core:notice] [pid 1:tid 139776714919240] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Mar 15 19:09:08.288851 2021] [mpm_event:notice] [pid 1:tid 139776714919240] AH00492: caught SIGWINCH, shutting down gracefully
